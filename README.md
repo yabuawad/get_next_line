@@ -41,9 +41,9 @@ close(fd);
 ```
 Output:
 
-Line 1 of the file
-Line 2 of the file
-Line 3 of the file
+Line 1 of the file  
+Line 2 of the file  
+Line 3 of the file  
 ...
 ### Notes
 Make sure to free every line returned to avoid memory leaks
