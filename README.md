@@ -7,7 +7,7 @@ get_next_line is a C project where you learn to read from a file descriptor one 
 ## Usage
 Clone the repository
 ```Bash
-git clone <your-repo-url>
+git clone git@github.com:yabuawad/get_next_line.git
 cd get_next_line
 ```
 Compile your code
