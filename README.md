@@ -1,5 +1,6 @@
 # get Next line ✧･ﾟ: ( ͡ꈍ ͜ʖ̫ ͡ꈍ ) :･ﾟ✧
-get_next_line is a C project where you learn to read from a file descriptor one line at a time, using system calls and a dynamically allocated buffer. This project really teaches you memory management the hard way lol.
+get_next_line is a C project where you learn to read from a file descriptor one line at a time, using system calls and a dynamically allocated buffer. 
+This project really taught me memory management the hard way lol.
 ## Features
 ~Reads from any file descriptor (files, stdin, etc.) line by line
 ~Manages memory carefully to avoid leaks
